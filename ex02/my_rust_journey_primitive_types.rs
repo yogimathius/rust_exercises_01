@@ -1,7 +1,7 @@
 fn main() {
-    let uinteger_value_400: u32 = 400;
-    let integer_value_14: i32 = 14;
-    let uinteger_value_guess: u32 = 0x2f;
+    let uinteger_value_400 = 400;
+    let integer_value_14 = 14;
+    let uinteger_value_guess = 999;
     let true_boolean = true;
     let false_boolean = false;
     let float_variable = 3.14;
