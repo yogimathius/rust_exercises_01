@@ -6,5 +6,5 @@ fn main() {
     println!("Age ({})", age);
     println!("Name ({})", name);
     println!("Tuple ({:?})", tuple);
-    println!("Number with leading zero ({:0>3})", number_with_leading_zero);
+    println!("Number with leading Zero ({:0>3})", number_with_leading_zero);
 }
